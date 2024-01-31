@@ -111,8 +111,8 @@ div.dropdown-multicol2>div.dropdown-col{
 			  </li>
 			  <!--end drop -->
 			  <!--  <li class="nav-item <?php if(isset($active) && $active=="cases") echo "active"?>"><a href="<?php echo base_url('cases')?>" class="nav-link">Case Study</a></li>
---> <li class="nav-item <?php if(isset($active) && $active=="blog") echo "active"?>"><a href="<?php echo base_url('blog')?>" class="nav-link">Blog</a></li>
-<li class="nav-item  <?php if(isset($active) && $active=="contact") echo "active"?>"><a href="<?php echo base_url('contact')?>" class="nav-link">Contact</a>
+ <li class="nav-item <?php if(isset($active) && $active=="blog") echo "active"?>"><a href="<?php echo base_url('blog')?>" class="nav-link">Blog</a></li>
+--><li class="nav-item  <?php if(isset($active) && $active=="contact") echo "active"?>"><a href="<?php echo base_url('contact')?>" class="nav-link">Contact</a>
 </li>
 
 

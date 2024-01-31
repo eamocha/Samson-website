@@ -64,28 +64,28 @@
     					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-wealth"></span></div>
     					<div class="text pl-4">
     						<h4>Tailored approach</h4>
-    						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+    						<p> We carefully listen to you, personalize our service and strive to make each client satisfied, feel valued and understood.</p>
     					</div>
     				</div>
     				<div class="services-2 w-100 d-flex">
     					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-accountant"></span></div>
     					<div class="text pl-4">
     						<h4>Proactive and responsive team</h4>
-    						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+    						<p>With our highly skilled and experienced team, we not only provide you with a solution, but provide appropriate responses to the diversity of your needs</p>
     					</div>
     				</div>
     				<div class="services-2 w-100 d-flex">
     					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-teamwork"></span></div>
     					<div class="text pl-4">
     						<h4>Our outstanding experience</h4>
-    						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+    						<p>Our company has been in operation for over 5 years with experienced team members in various areas.</p>
     					</div>
     				</div>
     				<div class="services-2 w-100 d-flex">
     					<div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-accounting"></span></div>
     					<div class="text pl-4">
-    						<h4>In us, you got a partner</h4>
-    						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+    						<h4>Latest technology and tools</h4>
+    						<p>To provide the best services, we employ the latest technology and tools to streamline processes, enhance efficiency, and improve accuracy.</p>
     					</div>
     				</div>
 	        </div>
@@ -105,8 +105,8 @@
             		<span class="flaticon-accounting-1"></span>
               </div>
               <div class="media-body">
-                <h3 class="heading">Accounting</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Audit and Assurance </h3>
+                <p>Samson and associates performs independent, exceptional quality risk-based financial statement audits and provides useful insights on internal control systems.</p>
               </div>
             </div>      
           </div>
@@ -116,8 +116,10 @@
             		<span class="flaticon-tax"></span>
               </div>
               <div class="media-body">
-                <h3 class="heading">Tax, Compliance &amp; Payroll</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Tax Advisory</h3>
+                <p>Samson & Associates offers a range of tax services including tax policy, tax dispute resolution, transfer pricing, employment taxes, corporate tax, withholding tax and payroll compliance and Value Added Tax (VAT).
+<a href=""> Read more</a>.
+</p>
               </div>
             </div>    
           </div>
@@ -127,8 +129,8 @@
             		<span class="flaticon-loan"></span>
               </div>
               <div class="media-body">
-                <h3 class="heading">Financial Services</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Accounting and payroll</h3>
+                <p>Samson & Associates offers clients with outsourced bookkeeping services, and monthly payroll administration..</p>
               </div>
             </div>      
           </div>
@@ -138,8 +140,8 @@
             		<span class="flaticon-budget"></span>
               </div>
               <div class="media-body">
-                <h3 class="heading">Growth &amp; Funding Access</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Corporate training </h3>
+                <p>Samson & Associates prides itself in delivery of bespoke capacity building services. We provide training services in areas such as IFRS, financial management, strategic management, tax compliance, corporate governance leadership and sustainability reporting.<a href=""> Read more</a></p>
               </div>
             </div>      
           </div>
@@ -150,15 +152,16 @@
     <section class="ftco-counter bg-light ftco-no-pt" id="section-counter">
     	<?php include("includes/stats.php") ?>
     </section>
-
+<!--
     <section class="ftco-section testimony-section bg-light">
 	<?php include("includes/clientFeedback.php") ?>
     </section>
+	-->
 
     <section class="ftco-section ftco-no-pt bg-light ftco-faqs">
 	<?php include("includes/faq.php") ?>
     </section>
-
+ commented out by atinga
     <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center pb-5 mb-3">
@@ -213,7 +216,7 @@
         </div>
       </div>
     </section>
-		
+
 
     <section class="ftco-section ftco-no-pb ftco-no-pt bg-secondary">
       <div class="container py-5">
